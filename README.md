@@ -11,11 +11,17 @@
 ## 2. 学生类对象
 见[Undergraduate.java](https://github.com/ZeirSor/Undergraduate_Management_Program/blob/master/Undergraduate.java)
 
+<img src="README.assets/image-20220923134941383.png" alt="image-20220923134941383" style="zoom: 50%;" />
+
 ## 3. 管理系统对象
 见[UndergraduateSystem.java](https://github.com/ZeirSor/Undergraduate_Management_Program/blob/master/UndergraduateSystem.java)
 
+<img src="README.assets/image-20220923135018626.png" alt="image-20220923135018626" style="zoom:50%;" />
+
 ## 4. 主函数运行
 见[MainRun.java](https://github.com/ZeirSor/Undergraduate_Management_Program/blob/master/MainRun.java)
+
+<img src="README.assets/image-20220923135024996.png" alt="image-20220923135024996" style="zoom:50%;" />
 
 ## 5. 运行结果
 见[runResult.txt](https://github.com/ZeirSor/Undergraduate_Management_Program/blob/master/out/runResult.txt)
